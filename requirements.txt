@@ -8,3 +8,4 @@ Pillow==7.2.0
 scikit_learn==0.23.2
 textblob==0.15.3
 wordcloud==1.8.0
+gensim==3.8.3
