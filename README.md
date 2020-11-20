@@ -3,7 +3,7 @@ Tutorials on processing and analyzing text using NLP methods.
 
 ## About
 
-These Jupyter notebooks contain tutorials and sample code for preforming analysis on non-English texts using Natural Language Processing methods, including Python scripts to clean, analyze, and visualize text. These notebooks accompany a workshop offered by University of Texas Libraries.
+These Jupyter notebooks contain tutorials and sample code for preforming analysis on non-English texts using Natural Language Processing methods, including Python scripts to clean, analyze, and visualize text. These notebooks accompany a workshop offered by University of Texas Libraries. They were created by Ian Goodale, European Studies Librarian, and Madeline Goebel, Graduate Research Assistant for Global Studies Digital Projects.
 
 ## Installation
 
