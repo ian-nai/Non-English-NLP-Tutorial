@@ -32,7 +32,6 @@ A selection of documentation and other resources for further reading, troublesho
 ## Online Articles
 
 #### [Problems with Non-English Text Processing](https://medium.com/krakensystems-blog/text-processing-problems-with-non-english-languages-82822d0945dd) 
-This Medium post breaks down a number of problems you might run into while processing non-English texts.
 
 #### [Best Practices in Non-English Sentiment Analysis](https://towardsdatascience.com/to-translate-or-not-to-translate-best-practices-in-non-english-sentiment-analysis-144a53613913)
 
