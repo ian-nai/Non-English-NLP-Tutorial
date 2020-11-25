@@ -5,6 +5,7 @@ A selection of documentation and other resources for further reading, troublesho
 
 ## Libraries
 
-<a name="nltk">#### NLTK</a>
+#### <a name="nltk"></a>[NLTK Documentation](https://www.nltk.org/)
 
-#### spaCy
+
+#### <a name="spacy"></a>[spaCy Documentation](https://spacy.io/api/doc)
