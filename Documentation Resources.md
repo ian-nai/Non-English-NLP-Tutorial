@@ -9,7 +9,7 @@ A selection of documentation and other resources for further reading, troublesho
 
 #### [spaCy Model Training](https://spacy.io/usage/training)
 
-#### [spacy-lefff GitHub repository](https://github.com/sammous/spacy-lefff)
+#### [spacy-lefff GitHub Repository](https://github.com/sammous/spacy-lefff)
 
 #### <a name="blob"></a>[TextBlob](https://textblob.readthedocs.io/en/dev/)
 
