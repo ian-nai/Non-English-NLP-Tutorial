@@ -11,3 +11,5 @@ A selection of documentation and other resources for further reading, troublesho
 #### <a name="spacy"></a>[spaCy General Documentation](https://spacy.io/api/doc)
 
 #### [spaCy Model Training](https://spacy.io/usage/training)
+
+#### [spacy-lefff GitHub repository](https://github.com/sammous/spacy-lefff)
