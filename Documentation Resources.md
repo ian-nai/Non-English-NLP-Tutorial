@@ -23,3 +23,16 @@ A selection of documentation and other resources for further reading, troublesho
 #### <a name="naive"></a>[Naive Bayes Classifier](https://www.nltk.org/api/nltk.sentiment.html#module-nltk.sentiment.sentiment_analyzer)
 
 #### <a name="LDA"></a>[Latent Dirichlet Allocation](https://towardsdatascience.com/lda-topic-modeling-an-explanation-e184c90aadcd)
+
+#### [spaCy Model Training](https://spacy.io/usage/training)
+
+#### [NLTK Model Training](https://www.nltk.org/book/ch06.html)
+
+
+## Online Articles
+
+#### [Problems with Non-English Text Processing](https://medium.com/krakensystems-blog/text-processing-problems-with-non-english-languages-82822d0945dd)
+This Medium post breaks down a number of problems you might run into while processing non-English texts.
+
+#### [Best Practices in Non-English Sentiment Analysis](https://towardsdatascience.com/to-translate-or-not-to-translate-best-practices-in-non-english-sentiment-analysis-144a53613913)
+
