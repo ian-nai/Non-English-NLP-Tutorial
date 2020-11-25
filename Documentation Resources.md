@@ -7,14 +7,23 @@ A selection of documentation and other resources for further reading, troublesho
 
 #### <a name="spacy"></a>[spaCy General Documentation](https://spacy.io/api/doc)
 
-#### [spaCy Model Training](https://spacy.io/usage/training)
-
 #### [spacy-lefff GitHub Repository](https://github.com/sammous/spacy-lefff)
 
-#### <a name="blob"></a>[TextBlob](https://textblob.readthedocs.io/en/dev/)
+#### <a name="blob"></a>[TextBlob Documentation](https://textblob.readthedocs.io/en/dev/)
 
-#### <a name="gensim"></a>[Gensim](https://radimrehurek.com/gensim/auto_examples/index.html#documentation)
+#### <a name="gensim"></a>[Gensim Documentation](https://radimrehurek.com/gensim/auto_examples/index.html#documentation)
 
+#### [NumPy Documentation](https://numpy.org/doc/)
+
+#### [Matplotlib Documentation](https://matplotlib.org/3.3.3/contents.html)
+
+#### [pandas Documentation](https://pandas.pydata.org/docs/)
+
+#### [Pillow Documentation](https://pillow.readthedocs.io/en/stable/)
+
+#### [WordCloud Documentation](https://amueller.github.io/word_cloud/)
+
+#### [NetworkX Documentation](https://networkx.org/documentation/stable/index.html)
 
 ## Tools and Models
 
