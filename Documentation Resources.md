@@ -13,3 +13,7 @@ A selection of documentation and other resources for further reading, troublesho
 #### [spacy-lefff GitHub repository](https://github.com/sammous/spacy-lefff)
 
 #### <a name="blob"></a>[TextBlob](https://textblob.readthedocs.io/en/dev/)
+
+## Tools (maybe rename this section...)
+
+#### <a name="vader"></a>[Vader](https://www.nltk.org/api/nltk.sentiment.html#module-nltk.sentiment.vader)
