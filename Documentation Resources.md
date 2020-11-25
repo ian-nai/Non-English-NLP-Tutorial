@@ -8,4 +8,6 @@ A selection of documentation and other resources for further reading, troublesho
 #### <a name="nltk"></a>[NLTK Documentation](https://www.nltk.org/)
 
 
-#### <a name="spacy"></a>[spaCy Documentation](https://spacy.io/api/doc)
+#### <a name="spacy"></a>[spaCy General Documentation](https://spacy.io/api/doc)
+
+#### [spaCy Model Training](https://spacy.io/usage/training)
