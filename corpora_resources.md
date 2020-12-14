@@ -1,6 +1,6 @@
 # Corpora and Resources
 
-[Awesome-Chinese_NLP](https://github.com/crownpku/Awesome-Chinese-NLP): Corpora, tools, and resources for NLP projects in Chinese.
+[Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP): Corpora, tools, and resources for NLP projects in Chinese.
 
 [Corpus for Finance (CoFIF)](https://github.com/CoFiF/Corpus): Reference documents and reports from France’s 60 largest companies from 1995-2018.
 
