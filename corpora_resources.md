@@ -10,7 +10,7 @@
 
 [Japanese Text Initative](http://jti.lib.virginia.edu/japanese/index.html): Classical Japanese Literature.
 
-[Middle Eastern and North African Newspapers](https://gpa.eastview.com/crl/mena/?a=p&p=home&e=-------en-25--1--img-txIN----------): Arabic newspapers from 1870=2019.
+[Middle Eastern and North African Newspapers](https://gpa.eastview.com/crl/mena/?a=p&p=home&e=-------en-25--1--img-txIN----------): Arabic newspapers from 1870-2019.
 
 [Project Gutenberg](http://gutenberg.org/): eBooks in a variety of languages.
 
