@@ -7,6 +7,8 @@ A selection of documentation and other resources for further reading, troublesho
 
 #### <a name="spacy"></a>[spaCy General Documentation](https://spacy.io/api/doc)
 
+#### <a name="stanza"></a>[Stanza Documentation](https://stanfordnlp.github.io/stanza/index.html)
+
 #### [spacy-lefff GitHub Repository](https://github.com/sammous/spacy-lefff)
 
 #### <a name="blob"></a>[TextBlob Documentation](https://textblob.readthedocs.io/en/dev/)
@@ -24,6 +26,7 @@ A selection of documentation and other resources for further reading, troublesho
 #### [WordCloud Documentation](https://amueller.github.io/word_cloud/)
 
 #### [NetworkX Documentation](https://networkx.org/documentation/stable/index.html)
+
 
 ## Tools and Models
 
