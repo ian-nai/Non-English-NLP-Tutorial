@@ -9,7 +9,7 @@ These Jupyter notebooks contain tutorials and sample code for preforming analysi
 Install required dependencies:
 
 ```
-pip3 install -r requirements
+pip3 install -r requirements.txt
 ```
 
 ## Troubleshooting
