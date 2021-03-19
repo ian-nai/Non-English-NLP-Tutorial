@@ -4,7 +4,7 @@ spacy==2.3.2
 nltk==3.5
 matplotlib==3.3.2
 pandas==1.1.2
-Pillow==7.2.0
+Pillow>=8.1.1
 textblob==0.15.3
 wordcloud==1.8.0
 gensim==3.8.3
